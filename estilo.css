@@ -1,0 +1,22 @@
+body{
+  background:rgb(183, 5, 253);
+}
+h1{
+  text-align: center;
+}
+.caixa1{
+  position: absolute;
+  width: 200px;
+  height:200px;
+  background: rgb(89, 2, 252);
+  right: 0%;
+  top: 70%;
+}
+.caixa2{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: rgb(78, 247, 0);
+  bottom: 0%;
+  right: 0%;
+}
