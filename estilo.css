@@ -1,18 +1,21 @@
 body{
-  background:black;
+  background
+  font-family: "VT323";
 }
 h1{
+  font-family: "VT323";
   text-align:left;
-  color: white;
+  color: lime;
   bottom: 100px;
   margin-top: 94px;
 }
 
 p{
-  color: white;
+  color: lime;
 }
 
 .menuPrincipal{
+  font-family: "VT323";
   position: absolute;
   top: 0;
   left: 0;
@@ -22,6 +25,7 @@ p{
   }
 nav ul{
   list-style-type: none;
+  font-family: "VT323";
   margin: 0;
   padding: 0;
   overflow: 0;
